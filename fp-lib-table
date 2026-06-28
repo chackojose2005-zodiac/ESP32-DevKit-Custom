@@ -3,4 +3,5 @@
 	(lib (name "CP2102N-A01-GQFN28footprint") (type "KiCad") (uri "${KIPRJMOD}/CP2102N-A01-GQFN28footprint.pretty") (options "") (descr ""))
 	(lib (name "MMSS8050-H-TPfootprint") (type "KiCad") (uri "${KIPRJMOD}/MMSS8050-H-TPfootprint.pretty") (options "") (descr ""))
 	(lib (name "ESP32-WROOM32D") (type "KiCad") (uri "${KIPRJMOD}/ESP32-WROOM32D.pretty") (options "") (descr ""))
+	(lib (name "Connector_USBMicro-AB_Molex") (type "KiCad") (uri "${KIPRJMOD}/Connector_USBMicro-AB_Molex.pretty") (options "") (descr ""))
 )
